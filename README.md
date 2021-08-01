@@ -1,10 +1,11 @@
 DATA SCIENCE CHALLENGE SCL WEEK 1
 =================================
-
 Predict Cardano Price
 ==============================
+![Cardano](https://esmarketingdigital.com/images/cardano.png)
 
-Create a predictive algorithm (Machine Learning or Deep Learning) to predict the correct time to buy cardano and the correct time to sell.   
+
+## Create a predictive algorithm (Machine Learning or Deep Learning) to predict the correct time to buy cardano and the correct time to sell.   
 
 ---  
 
